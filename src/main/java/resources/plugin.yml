@@ -1,0 +1,11 @@
+name: Grabber
+version: 1.0.0
+main: eu.ansquare.welcounter.Welcounter
+description: Counts players saying welcome
+author: SasaElele
+website: https://thenestsmp.com
+api-version: 1.19
+commands:
+  welcounter:
+    description: General command
+    usage: "Usage: /<command> [count|reload] [playername]"
